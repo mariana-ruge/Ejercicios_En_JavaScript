@@ -1,0 +1,16 @@
+main {
+    max-width: 500px; /* Limita el ancho del contenido */
+    margin: 0 auto; /* Centra el contenido horizontalmente */
+    padding: 2rem; /* Añade un espacio interno */
+    background-color: #2a2e46; /* Fondo ligeramente diferente */
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para un efecto visual */
+}
+
+h1 {
+    text-align: center; /* Centra el título */
+}
+
+button {
+    width: 100%; /* Botón a todo el ancho */
+}
